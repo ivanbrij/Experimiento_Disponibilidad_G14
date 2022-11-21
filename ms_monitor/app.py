@@ -16,12 +16,12 @@ for i in range(0, 100):
         status = response.status_code
 
         if status == 200:
-            app.logger.info("Microservicio salida disponible.")
+            app.logger.info("Microservicio paciente disponible.")
         else:
 
-            app.logger.critical("Microservicio salida disponible, pero backend no disponible.")
+            app.logger.critical("Microservicio paciente disponible, pero alguna dependencia no esta disponible.")
     except requests.exceptions.RequestException:
-        app.logger.critical("Microservicio salida no disponible")
+        app.logger.critical("Microservicio paciente no disponible")
 
 
     time.sleep(3)
