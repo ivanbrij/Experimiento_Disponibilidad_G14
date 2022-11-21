@@ -10,7 +10,7 @@ response = None
 app = Flask("Monitor Ping-Echo")
 logging.basicConfig(filename='monitor.log', level=logging.DEBUG, format='%(name)s - %(levelname)s - %(message)s')
 
-for i in range(0, 10):
+for i in range(0, 100):
     try:
         response = requests.get(url)
         status = response.status_code

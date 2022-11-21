@@ -1,0 +1,123 @@
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+urllib3.connectionpool - DEBUG - http://localhost:5001 "GET /ping HTTP/1.1" 200 7
+Monitor Ping-Echo - INFO - Microservicio salida disponible.
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
+urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:5001
+Monitor Ping-Echo - CRITICAL - Microservicio salida no disponible
